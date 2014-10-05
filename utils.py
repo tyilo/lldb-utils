@@ -4,7 +4,6 @@ import re
 import tempfile
 import pipes
 import os
-import ast
 import macholib.mach_o
 import macholib.MachO
 import struct
